@@ -39,7 +39,7 @@ sudo apt install python-numpy
 cd VLPD
 ```
 ```python
-python video_frame_extraction.py
+python videoframe.py
 ```
 * Provide the proper filename with extension when it prompts
 * Check output in the results folder
