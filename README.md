@@ -42,7 +42,7 @@ cd VLPD
 python video_frame_extraction.py
 ```
 * Provide the proper filename with extension when it prompts
-* Check output in the vehicle folder
+* Check output in the results folder
 ---
 ## In order to enhance the computational perfromance a GPU setup is preferrable as it is 500 times faster than CPU
 
