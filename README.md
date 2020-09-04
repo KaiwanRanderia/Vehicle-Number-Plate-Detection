@@ -46,4 +46,4 @@ python videoframe.py
 ---
 ## In order to enhance the computational perfromance a GPU setup is preferrable as it is 500 times faster than CPU
 
-### FOR ANY QUERIES CONTACT - shaikhzartan@gmail.com
+
